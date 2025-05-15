@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Biplab Jana
+- 👋 Hi, I’m Biplab Jana a Full Stack Developer with expertise in the MERN stack, Django, Python, and Data Structures & Algorithms (DSA), capable of building scalable and efficient web applications from front-end to back-end.
 
 - <p font-weight="bold" font-size="20px" >My Skills</p>
  <div display="flex" gap="10px">

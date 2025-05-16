@@ -1,6 +1,6 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkdXak6TQndJMMMMvVV_72z9Jo3kDIA9VgSQ&s" width="100%" height="200px"/>
 
-- 👋 Hi, I’m Biplab Jana a Full Stack Developer with expertise in the MERN stack, Django, Python, and Data Structures & Algorithms (DSA), capable of building scalable and efficient web applications from front-end to back-end.
+- <h2>👋 Hi, I’m Biplab Jana a Full Stack Developer with expertise in the MERN stack, Django, Python, and Data Structures & Algorithms (DSA), capable of building scalable and efficient web applications from front-end to back-end.</h2>
 
 - <p font-weight="bold" font-size="20px" >My Skills</p>
  <div display="flex" gap="10px">
